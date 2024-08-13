@@ -1,0 +1,51 @@
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2024 Schwartzco Inc.
+        License 2408-DFKMCY      
+*/
+
+@font-face {
+	font-family: 'Lyon Display Web';
+	src: url('LyonDisplay-Light-Web.woff2') format('woff2'),
+		 url('LyonDisplay-Light-Web.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+	}
+
+.LyonDisplay-Light-Web {
+	font-family: 'Lyon Display Web';
+	font-weight: 300;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Lyon Display Web';
+	src: url('LyonDisplay-Regular-Web.woff2') format('woff2'),
+		 url('LyonDisplay-Regular-Web.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+	}
+
+.LyonDisplay-Regular-Web {
+	font-family: 'Lyon Display Web';
+	font-weight: 400;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Lyon Display Web';
+	src: url('LyonDisplay-Medium-Web.woff2') format('woff2'),
+		 url('LyonDisplay-Medium-Web.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+	}
+
+.LyonDisplay-Medium-Web {
+	font-family: 'Lyon Display Web';
+	font-weight: 500;
+	font-style: normal;
+	}
